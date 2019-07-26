@@ -24,7 +24,8 @@ JavaScriptのコードは1行！！
 ```javascript
 var rellax = new Rellax(' .rellax ');
 ```
-上のコードをHTMLに組み込むもよし。jsファイルとして別に記述してもよし。
+> [!TIP]
+> 上のコードをHTMLに組み込むもよし。jsファイルとして別に記述してもよし。
 
 
 ## 使用例
@@ -40,7 +41,8 @@ var rellax = new Rellax(' .rellax ');
 </html>
 ```
 
-data-rellax-speedの値が10から-10で値が低くなるほど遅くなる
+> [!TIP]
+> data-rellax-speedの値が10から-10で値が低くなるほど遅くなる
 
 
 ```css
