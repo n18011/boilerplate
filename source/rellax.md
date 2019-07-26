@@ -14,10 +14,11 @@ HTMLページのスクロールに時間差をつけることでページに3D�
 
 ## 使い方
 
-- HTMLに <script></script> タグで導入
+ HTMLに <script></script> タグで導入
     2つ方法がある
 - https://github.com/dixonandmoe/rellax から rellax.min.js ファイルを持ってくる
-    - CDN経由で <script src="https://cdnjs.cloudflare.com/ajax/libs/rellax/1.0.0/rellax.min.js"></script> をHTMLに組み込む
+
+- CDN経由で <script src="https://cdnjs.cloudflare.com/ajax/libs/rellax/1.0.0/rellax.min.js"></script> をHTMLに組み込む
 
 
 JavaScriptのコードは1行！！
