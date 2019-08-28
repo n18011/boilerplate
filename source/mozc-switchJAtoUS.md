@@ -1,12 +1,13 @@
 ---
 title: mozcの日本語入力と英語入力の切り替え方法
 date: 2019-06-20
-tags: ['keybord', 'キーボード', 'mozc']
-excerpt: 今までの作業ロスが...
+tags: ['keybord', 'キーボード', 'mozc', 'Ubuntu18.03','Xubuntu19' ]
+excerpt: ずっとクリックして切り替えてた;今までの作業ロスが...
 ---
 
 
-## 必要なもの
+## 環境
+- Ubuntu18.03,Xubuntu19
 - mozcインストール済PC
 
 ## 方法
