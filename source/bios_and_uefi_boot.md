@@ -1,6 +1,6 @@
 ---
 title: UEFI GPT + BIOS GPT/MBR のハイブリッドブート(USB)
-date: 2019-06-25
+date: 2019-09-05
 tags: ['LiveUSB', 'kali linux', 'GRUBブートローダ']
 excerpt: どんなPCでも起動可能な持ち運べるマイOSを作りたい！
 ---
